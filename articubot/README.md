@@ -1,6 +1,7 @@
 # Simulation Tutorials
 
 ## 1. Package creation
+Should be within folder you want your project to exist in
 ```
 ros2 pkg create --build-type ament_cmake articubot \
         --dependencies rclcpp rclpy \
